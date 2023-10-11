@@ -4,6 +4,7 @@
 На нашем сайте есть блоки со статьями и с видеозаписями. 
 
 ![Highlight](./src/assets/highlight.png)
+[![highlight](https://github.com/bas27/ra-hoc-highlight-7.2/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ra-hoc-highlight-7.2/actions/workflows/web.yml)
 
 Мы решили улучшить отображение наших блоков таким образом, чтобы популярные статьи и видео, у которых 1000+ прочтений или просмотров,
 оборачивались в компонент `Popular`, а с количеством до 100 — в компонент `New`. Эти компоненты будут менять внешний облик блоков, привлекая внимание посетителей.
